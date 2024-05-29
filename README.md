@@ -19,3 +19,6 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Screenshot
+![](https://github.com/FatemahNur/NumberGuessingGame/blob/master/Screenshot%20(7).png)
